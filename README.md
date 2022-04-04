@@ -1,6 +1,6 @@
-# Webpack Starter Template
+# Todo List Application
 
-This is a project to create apps with webpack.
+
 
 ### Notes: 
 Remember to install node_modules:
@@ -25,4 +25,4 @@ npm run serve
 Adrià Matoses
 
 #### Last Update: 
-31/03/2022
+04/04/2022
